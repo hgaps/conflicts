@@ -1,5 +1,7 @@
 # conflicts
 
+Adding new insertion on top to have two areas with conflic - Local DD
+
 This is the conflicts projects - A
 This is the first local insertion - B
 This is the second local insertion - C
@@ -24,8 +26,16 @@ With this insertion, I am testing the Status section. This is only local now.
 
 -------
 
-<<<<<<< HEAD
+
 Creating a new conflict with remote insertion CC.
-=======
+
 Adding remote insertion to generate conflict. 
->>>>>>> 385fb5cc8c7112e7cb27a22088ebc3375e47d393
+
+The two lines above solved the conflict
+
+------
+
+Adding second line two generate conflicts in different sections of document. 
+
+
+
