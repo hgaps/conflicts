@@ -1,5 +1,7 @@
 # conflicts
 
+Adding new insertion on top to have two areas with conflic - Remote EE
+
 Adding new insertion on top to have two areas with conflic - Local DD
 
 This is the conflicts projects - A
@@ -45,5 +47,5 @@ The two lines above solved the conflict
 
 Adding second line two generate conflicts in different sections of document. 
 
-
+Adding last line two generate conflicts in different sections of document FF remote
 
