@@ -66,3 +66,5 @@ Now, I continue working locally with GPA, but I want to push to remote GPA, not 
 Adding new line to differentiate local main from gpa. this is the line
 
 Adding a new line to differentiate Locan Main with local GPA
+
+Now, I am adding insertion to push from local GPA branch to main remote. 
