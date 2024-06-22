@@ -57,4 +57,6 @@ Adding last line two generate conflicts in different sections of document FF
 
 Adding last line two generate conflicts in different sections of document FF remote
 
+------
 
+Adding new insertion using branch GPA to be merged with origin/master
