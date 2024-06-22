@@ -18,4 +18,6 @@ This is the first local insertion BB to create conflict with remote BB
 
 This is the second remote BB (not in local repository to create conflict) - Also differences in formatting. 
 
+-------
 
+With this insertion, I am testing the Status section. This is only local now. 
