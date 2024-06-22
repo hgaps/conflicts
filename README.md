@@ -21,3 +21,7 @@ This is the second remote BB (not in local repository to create conflict) - Also
 -------
 
 With this insertion, I am testing the Status section. This is only local now. 
+
+-------
+
+Adding remote insertion to generate conflict. 
