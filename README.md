@@ -13,4 +13,9 @@ This is the fourth remote insertion - F
 Now, I will try to solve conflicts using RStudio Git options instead of Git command in the console
 
 This is remote insertion AA
+
 This is the first local insertion BB to create conflict with remote BB
+
+This is the second remote BB (not in local repository to create conflict) - Also differences in formatting. 
+
+
