@@ -24,4 +24,8 @@ With this insertion, I am testing the Status section. This is only local now.
 
 -------
 
+<<<<<<< HEAD
 Creating a new conflict with remote insertion CC.
+=======
+Adding remote insertion to generate conflict. 
+>>>>>>> 385fb5cc8c7112e7cb27a22088ebc3375e47d393
